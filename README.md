@@ -17,3 +17,4 @@ Given a table of random users generated from the Random User API, when the user 
 * Filter the users by at least one property.
 
 # Deployed Link
+https://alexcappy21.github.io/UserDirectory/
